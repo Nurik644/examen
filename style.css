@@ -1,0 +1,41 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+    border-radius: 20px;
+}
+
+strong {
+
+    color: red;
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    text-align: center;
+    background-color: yellow;
+    color: brown;
+}
+
+h4 {
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+}
+
+h5 {
+    color: red;
+}
+
+h6 {
+    text-align: center;
+    background-color: yellow;
+    color: brown;
+}
+
+table {
+    border: 5px solid black;
+    border-collapse: collapse;
+}
